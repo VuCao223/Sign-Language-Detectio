@@ -1,4 +1,4 @@
-SIGN LANGUAGE RECOGNITION
+# SIGN LANGUAGE RECOGNITION
 
  <img width="572" alt="image" src="https://github.com/VuCao223/Sign-Language-Detectio/assets/160468490/5916a7ab-7279-4958-8dcd-b67d07889d42">
  
